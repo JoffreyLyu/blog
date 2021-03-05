@@ -18,7 +18,7 @@
 
 1. Javascript基础
 
-   （1）[01Javascript基础之变量](https://gitee.com/dudejava/com.ui.git)
+   （1）[01Javascript基础之变量](.\javascript基础\01Javascript基础之变量.md)
 
 2. React设计模式
 
