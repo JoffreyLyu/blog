@@ -29,7 +29,9 @@
 
 
 
-![](C:\Users\Administrator\Desktop\blog\javascript基础\img\01-1.png)
+![](.\img\01-1.png)
+
+
 
 ### 二、复制变量值
 
@@ -44,7 +46,7 @@ var num2 = num1
 
 如图所示：
 
-![](C:\Users\Administrator\Desktop\blog\javascript基础\img\01-2.png)
+![](.\img\01-2.png)
 
 - **引用类型**
 
@@ -59,7 +61,7 @@ var num2 = num1
 
   内存过程如图所示：
 
-  ![](C:\Users\Administrator\Desktop\blog\javascript基础\img\01-3.png)
+  ![](.\img\01-3.png)
 
   
 
